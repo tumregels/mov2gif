@@ -1,4 +1,8 @@
-# mov2gif - convert mov files to gif
+# mov2gif
+
+mov2gif converter allows you to convert mov file into gif.
+
+# Usage
 
     $ git clone https://github.com/tumregels/mov2gif.git
     $ cd mov2gif
@@ -8,6 +12,6 @@
     // previous command will generate out.gif
 
 
-# inspiration
+# Inspiration
 
 This project was inspired from the following [gist](https://gist.github.com/dergachev/4627207)
