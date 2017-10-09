@@ -2,14 +2,13 @@
 
 mov2gif converter allows you to convert mov file into gif.
 
-# Usage
+# Installation and usage
 
     $ git clone https://github.com/tumregels/mov2gif.git
     $ cd mov2gif
     $ npm install
     // put your mov file inside mov2gif folder and rename it into in.mov
-    $ node index.js
-    // previous command will generate out.gif
+    $ node index.js // this command will generate out.gif
 
 
 # Inspiration
